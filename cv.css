@@ -1,0 +1,394 @@
+body{
+    font-family: Roboto;
+}
+
+#Column{
+    display: flex;
+    flex-direction: column;
+    flex: 0.7;
+    margin-left: 10%;
+    margin-top: 0%;
+}
+
+#Column1{
+    display: flex;
+    flex-direction: column;
+}
+
+#Row{
+    display: flex;
+    flex-direction: row;
+    margin: 0%;
+}
+
+#Row1{
+    display: flex;
+    flex-direction: row;
+}
+
+#Row2{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+#guiu img{
+    width: 70%;
+    height: 55%;
+    margin-left: 40%;
+    margin-top: 40%;
+    position: relative;
+    bottom: 25%;
+}
+
+#guiu{
+   flex: 0.15;
+}
+
+#text p{
+    margin-right: 10%;
+    position: relative;
+    bottom:35%;
+    text-align: justify;
+}
+
+#text2 {
+    margin-top: 3%;
+}
+
+#Column1 p{
+    margin: 0%;
+    position: relative;
+    bottom:20%;
+    text-align: justify;
+}
+
+#header h1{
+    font-size: 300%;
+    color: rgb(217,38,38);
+    position: absolute;
+    bottom: 80%;
+}
+
+header{
+    color: rgb(116,113,108);
+    font-size: 110%;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+#Name p{
+    display: grid;
+    place-items: center;
+    color: #74716c;
+    font-size: 300%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#telefon img{
+    width: 12%;
+}
+#gmail img{
+    width: 14%;
+}
+#ubicacio img{
+    width: 16%;
+}
+
+#facebook img, #instagram img, #linkedin img{
+    height: 5%;
+    width: 5%;
+}
+
+#idfacebook p, #idinstagram p, #idlinkedin p{
+    position: relative;
+    bottom: 32%;
+    left: 10%;
+}
+
+#facebook, #instagram, #linkedin{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    position: relative;
+    left: 30%;
+}
+
+#Interests header{
+    margin: 0%;
+    margin-top: 5%;
+}
+
+#Interests1,#Interests2,#Interests3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#cooking p{
+    font-size:140%;
+    margin-right: 10%;
+    position: relative;
+    top: 50%;
+}
+#travelling p{
+    font-size:200%;
+    margin-left: 10%;
+    margin-bottom: 0%;
+    position: relative;
+    top: 40%;
+}
+#photography p{
+    font-size:200%;
+    margin-left: 10%;
+    margin-bottom: 0%;
+}
+#writing p{
+    font-size:140%;
+    margin-right: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    position: relative;
+    right: 20%;
+}
+#cinema p{
+    font-size:200%;
+    margin-left: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    position: relative;
+    right: 20%;
+}
+#music p{
+    font-size:200%;
+    margin-right: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    position: relative;
+    bottom: 30%;
+    right: 10%;
+}
+#reading p{
+    font-size:140%;
+    margin-left: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    position: relative;
+    top: 10%;
+}
+
+.VerticalLine01, .VerticalLine02{
+    border-left: 1.75px solid #74716c;
+    height: 360px;
+    width: 0px;
+    display:inline-block;
+    position: relative;
+    padding-right: 5%;
+}
+
+.VerticalLine01{
+    position:relative;
+    left: 39%;
+}
+
+.VerticalLine02{
+    position:relative;
+    left: 39%;
+}
+
+.VerticalLine2{
+    border-left: 6px solid #74716c;
+    height: 1000px;
+    width: 120px;
+    display:inline-block;
+}
+
+.HoritzontalLine {
+    width: 1450px;
+    height: 0;
+    border: 2.5px solid #74716c;
+    display:inline-block;
+}
+#Line{
+    display: flex;
+    flex-direction: row;
+}
+
+.circle01, .circle02, .circle03, .circle04, .circle05, .circle06 {
+    height: 10px;
+    width: 10px;
+    background-color: #74716c;
+    border-radius: 50%;
+    display: block;
+    position:absolute;
+    left: 49%;
+}
+
+#Experience header{
+    position: relative;
+    left: 27%;
+}
+
+.circle01{
+    top: 73%;
+}
+
+#dosmilquinze{
+    position:absolute;
+    bottom: 22.8%;
+    left: 50%;
+}
+
+#Samsung{
+    position: absolute;
+    top: 77%;
+    right: 53%;
+}
+
+.circle02{
+    top: 90%;
+}
+
+#dosmildivuit{
+    position:absolute;
+    bottom: 6%;
+    left: 50%;
+}
+
+#Microsoft{
+    position: absolute;
+    top: 98%;
+    right: 53%;
+}
+
+.circle03{
+    top:110%
+}
+
+#dosmilvinttres{
+    position:absolute;
+    left: 50%;
+    top: 107%;
+}
+
+#Education header{
+    position: relative;
+    left: 27%;
+}
+
+.circle04{
+    top: 138%;
+}
+
+#dosmilvuit{
+    position:absolute;
+    top: 135%;
+    left: 50%;
+}
+
+#Bachelor{
+    position: absolute;
+    top: 143%;
+    right: 53%;
+}
+
+.circle05{
+    top: 155.5%;
+}
+
+#dosmilonze{
+    position:absolute;
+    top: 152.6%;
+    left: 50%;
+}
+
+#ComputingScience{
+    position: absolute;
+    top: 164%;
+    right: 53%;
+}
+
+.circle06{
+    top:177%
+}
+
+#dosmilcatorze{
+    position:absolute;
+    left: 50%;
+    top: 174%;
+}
+
+#Languages header{
+    position: relative;
+    left: 20%;
+}
+
+.circle1 {
+    height: 15px;
+    width: 15px;
+    background-color: #74716c;
+    border-radius: 50%;
+    margin: 2%;
+}
+
+.circle2 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(217,38,38);
+    border-radius: 50%;
+    margin: 2%;
+}
+
+#English p, #Catalan p, #Spanish p, #French p{
+    position: relative;
+    bottom: 20%;
+}
+
+#English{
+    margin-right: 10%;
+}
+
+#Catalan{
+    margin-right: 9%;
+}
+
+#Spanish{
+    margin-right: 9.75%;
+}
+
+#French{
+    margin-right: 11%;
+}
+
+#Skills header{
+    position: relative;
+    left: 20%;
+}
+
+#Cpp p, #C p, #Java p, #JavaScript p, #HTML p, #CSS p, #Shell p, #Powershell p{
+    position: absolute;
+    text-align:left;
+    left: 75%;
+}
+
+#Skills img{
+    width:15%;
+    margin-left: 10%;
+    position: relative;
+    left: 40%;
+}
+
+#firstcolumn{
+    flex: 1.75;
+    text-align: center;
+}
+
+#secondcolumn{
+    flex: 1.5;
+}
+
+#thirdcolumn{
+    flex: 1.5;
+}
