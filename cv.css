@@ -184,8 +184,6 @@ header{
     height: 360px;
     width: 0px;
     display:inline-block;
-    position: relative;
-    padding-right: 5%;
 }
 
 .VerticalLine01{
@@ -233,48 +231,48 @@ header{
 .circle01{
     position: relative;
     top: 5%;
-    left: 187%;
+    left: 215%;
 }
 
 #dosmilquinze{
     position:relative;
-    bottom: 3%;
-    left: 220%;
+    bottom: 3.5%;
+    left: 235%;
 }
 
 #Samsung{
     position: relative;
     top: 10%;
-    right: 53%;
+    right: 10%;
 }
 
 .circle02{
     position: relative;
     top: 25%;
-    left: 187%;
+    left: 215%;
 }
 
 #dosmildivuit{
     position:relative;
     top: 16%;
-    left: 220%;
+    left: 235%;
 }
 
 #Microsoft{
     position: relative;
     top: 30%;
-    right: 53%;
+    right: 10%;
 }
 
 .circle03{
     position: relative;
-    left: 187%;
+    left: 215%;
     top: 42.5%;
 }
 
 #dosmilvinttres{
     position:relative;
-    left: 220%;
+    left: 235%;
     top: 34%;
 }
 
@@ -286,13 +284,13 @@ header{
 .circle04{
     position: relative;
     top: 5%;
-    left: 66.8%;
+    left: 77%;
 }
 
 #dosmilvuit{
     position:relative;
-    bottom: 3%;
-    left: 77%;
+    bottom: 3.5%;
+    left: 85%;
 }
 
 #Bachelor{
@@ -304,13 +302,13 @@ header{
 .circle05{
     position: relative;
     top: 22%;
-    left: 66.8%;
+    left: 77%;
 }
 
 #dosmilonze{
     position:relative;
     top: 13.5%;
-    left: 77%;
+    left: 85%;
 }
 
 #ComputingScience{
@@ -322,13 +320,13 @@ header{
 .circle06{
     position: relative;
     top:37%;
-    left: 66.8%;
+    left: 77%;
 }
 
 #dosmilcatorze{
     position:relative;
-    left: 77%;
-    top: 29%;
+    left: 85%;
+    top: 28.5%;
 }
 
 #Languages header{
