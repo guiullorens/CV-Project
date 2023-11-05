@@ -222,8 +222,7 @@ header{
     background-color: #74716c;
     border-radius: 50%;
     display: block;
-    position:absolute;
-    left: 49%;
+    position: relative;
 }
 
 #Experience header{
@@ -232,45 +231,51 @@ header{
 }
 
 .circle01{
-    top: 73%;
+    position: relative;
+    top: 5%;
+    left: 187%;
 }
 
 #dosmilquinze{
-    position:absolute;
-    bottom: 22.8%;
-    left: 50%;
+    position:relative;
+    bottom: 3%;
+    left: 220%;
 }
 
 #Samsung{
-    position: absolute;
-    top: 77%;
+    position: relative;
+    top: 10%;
     right: 53%;
 }
 
 .circle02{
-    top: 90%;
+    position: relative;
+    top: 25%;
+    left: 187%;
 }
 
 #dosmildivuit{
-    position:absolute;
-    bottom: 6%;
-    left: 50%;
+    position:relative;
+    top: 16%;
+    left: 220%;
 }
 
 #Microsoft{
-    position: absolute;
-    top: 98%;
+    position: relative;
+    top: 30%;
     right: 53%;
 }
 
 .circle03{
-    top:110%
+    position: relative;
+    left: 187%;
+    top: 42.5%;
 }
 
 #dosmilvinttres{
-    position:absolute;
-    left: 50%;
-    top: 107%;
+    position:relative;
+    left: 220%;
+    top: 34%;
 }
 
 #Education header{
@@ -279,45 +284,51 @@ header{
 }
 
 .circle04{
-    top: 138%;
+    position: relative;
+    top: 5%;
+    left: 66.8%;
 }
 
 #dosmilvuit{
-    position:absolute;
-    top: 135%;
-    left: 50%;
+    position:relative;
+    bottom: 3%;
+    left: 77%;
 }
 
 #Bachelor{
-    position: absolute;
-    top: 143%;
-    right: 53%;
+    position: relative;
+    top: 10%;
+    right: 40%;
 }
 
 .circle05{
-    top: 155.5%;
+    position: relative;
+    top: 22%;
+    left: 66.8%;
 }
 
 #dosmilonze{
-    position:absolute;
-    top: 152.6%;
-    left: 50%;
+    position:relative;
+    top: 13.5%;
+    left: 77%;
 }
 
 #ComputingScience{
-    position: absolute;
-    top: 164%;
-    right: 53%;
+    position: relative;
+    top: 25%;
+    right: 48%;
 }
 
 .circle06{
-    top:177%
+    position: relative;
+    top:37%;
+    left: 66.8%;
 }
 
 #dosmilcatorze{
-    position:absolute;
-    left: 50%;
-    top: 174%;
+    position:relative;
+    left: 77%;
+    top: 29%;
 }
 
 #Languages header{
