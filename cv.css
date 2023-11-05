@@ -180,20 +180,21 @@ header{
 }
 
 .VerticalLine01, .VerticalLine02{
-    border-left: 1.75px solid #74716c;
+    border-left: 1px solid #74716c;
     height: 360px;
-    width: 0px;
     display:inline-block;
+    margin: 0%;
+    padding: 0%;
 }
 
 .VerticalLine01{
     position:relative;
-    left: 39%;
+    left: 38.66%;
 }
 
 .VerticalLine02{
     position:relative;
-    left: 39%;
+    left: 38.66%;
 }
 
 .VerticalLine2{
@@ -220,7 +221,6 @@ header{
     background-color: #74716c;
     border-radius: 50%;
     display: block;
-    position: relative;
 }
 
 #Experience header{
